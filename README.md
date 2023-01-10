@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all the notes taken by Junayd for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all the notes taken by [Junayd](https://github.com/Junaydh) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
